@@ -68,7 +68,7 @@ The following are necessary to run this project:
 ## Usage
 
 ```sh
-python load_ifc.py --ifc_file path/to/your.ifc --namespace your_namespace --write_path path/to/output.ttl
+python code/load_ifc.py --ifc_file path/to/your.ifc --namespace your_namespace --write_path path/to/output.ttl
 ```
 
 _For more examples, please refer to the [Documentation](https://example.com)_
