@@ -1,4 +1,6 @@
 .env
+.idea
+neo4j_db
 
 # data folders
 data/
