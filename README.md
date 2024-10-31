@@ -36,22 +36,7 @@ The following are necessary to run this project:
    ```
 3. Install required python packages
    ```sh
-   pip install ifcopenshell
-   ```
-   ```sh
-   pip install pandas
-   ```
-   ```sh
-   pip install rdflib
-   ```
-   ```sh
-   pip install requests
-   ```
-   ```sh
-   pip install beautifulsoup4
-   ```
-   ```sh
-   pip install gravis
+   pip install ifcopenshell pandas rdflib requests beautifulsoup4 os
    ```
 
 5. Change git remote url to avoid accidental pushes to base project
